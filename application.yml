@@ -6,7 +6,7 @@ server:
     
 # 连接数据库配置
 spring:
-  profiles: pord
+  #profiles: pord
   datasource:
   # 引入数据源
     type: com.alibaba.druid.pool.DruidDataSource  # 连接到阿里的数据源
